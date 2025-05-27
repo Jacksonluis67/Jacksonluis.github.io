@@ -18,8 +18,8 @@
   </header>
   <section>
     <h2>Sobre nós</h2>
-    <p>🌟 Apresentação da Agência – Mova Studio
-      Há mais de 4 anos, o Mova Studio transforma ideias em movimento com criatividade, técnica e propósito. Somos uma agência especializada em motion design, unindo arte e estratégia para dar vida a histórias visuais que impactam e comunicam com clareza.
+    <p>🌟 Apresentação da Agência – Mova Studio<p>
+    <p> Há mais de 4 anos, o Mova Studio transforma ideias em movimento com criatividade, técnica e propósito. Somos uma agência especializada em motion design, unindo arte e estratégia para dar vida a histórias visuais que impactam e comunicam com clareza.
 
 Nosso trabalho vai além da estética: entregamos soluções visuais animadas, pensadas para conectar marcas ao seu público de forma memorável.
 
