@@ -1,16 +1,66 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Portfólio Mova_studio</title>
   <style>
-    body { font-family: sans-serif; margin: 0; padding: 0; background: #00A9E0; }
-    header { background: #00A9E0; color: white; padding: 2rem; text-align: center; }
-    section { padding: 2rem; }
-    footer { background: #191919; color: white; text-align: center; padding: 1rem; }
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #00A9E0;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .hero-video {
+      width: 100%;
+      height: 60vh;
+      object-fit: cover;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #FF6A13;
+      margin-bottom: 20px;
+    }
+    .portfolio-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+    .portfolio-grid iframe {
+      width: 100%;
+      height: 400px;
+      border: none;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: #00A9E0;
+      color: white;
+    }
   </style>
 </head>
 <body>
+
+<header>
+  <h1>Mova Studio</h1>
+  <p>Motion Designer & Edição Criativa de Vídeo</p>
+</header>
+
+<video class="hero-video" autoplay muted loop>
+  <source src="[video-inicial.mp4](https://www.instagram.com/jackson_motion/reel/DJ4y1a4xFx7/)" type="video/mp4" />
+  Seu navegador não suporta vídeos.
+</video>
+  
   <header>
     <h1>Olá! Somos Mova_Studio</h1>
     <p>Estúdio de animação 2D e criação visual | Estúdio Criativo</p>
