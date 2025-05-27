@@ -53,7 +53,7 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
     </ul>
   </section>
   <section>
-    <h2>Contato: (99) 991244539</h2>
+    <h2>Contato</h2>
     <p>Email: Jacksonluis67@gmail.com</p>
     <p>Instagram: @Jackson_motion</p>
   </section>
