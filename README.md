@@ -13,7 +13,7 @@
 <body>
   <header>
     <h1>Olá! Somos Mova_Studio</h1>
-    <p>Estúdio de animação 2D e criação visual | Estúdio Mova</p>
+    <p>Estúdio de animação 2D e criação visual | Estúdio Criativo</p>
   </header>
   <section>
     <h2>Sobre nós</h2>
@@ -77,5 +77,5 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
     section { padding: 2rem; }
     footer { background: #191919; color: white; text-align: center; padding: 1rem; }
     /* ...restante do CSS... */
-<h2 style="color: #ff6a00;">Título laranja</h2>
-<p style="color: #005bea;">Parágrafo azul forte</p>
+<h2 style="color: #ff6a00;"</h2>
+<p> style="color: #005bea;"</p>
