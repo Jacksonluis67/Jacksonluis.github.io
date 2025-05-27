@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Portfólio de Elaine</title>
+  <title>Portfólio Mova_studio</title>
   <style>
     body { font-family: sans-serif; margin: 0; padding: 0; background: #00A9E0; }
     header { background: #00A9E0; color: white; padding: 2rem; text-align: center; }
     section { padding: 2rem; }
-    footer { background: #FF6A13; color: white; text-align: center; padding: 1rem; }
+    footer { background: #191919; color: white; text-align: center; padding: 1rem; }
   </style>
 </head>
 <body>
@@ -18,7 +18,8 @@
   </header>
   <section>
     <h2>Sobre nós</h2>
-    <p>Há mais de 4 anos, o Mova Studio transforma ideias em movimento com criatividade, técnica e propósito. Somos uma agência especializada em motion design, unindo arte e estratégia para dar vida a histórias visuais que impactam e comunicam com clareza.
+    <p>🌟 Apresentação da Agência – Mova Studio
+      Há mais de 4 anos, o Mova Studio transforma ideias em movimento com criatividade, técnica e propósito. Somos uma agência especializada em motion design, unindo arte e estratégia para dar vida a histórias visuais que impactam e comunicam com clareza.
 
 Nosso trabalho vai além da estética: entregamos soluções visuais animadas, pensadas para conectar marcas ao seu público de forma memorável.
 
@@ -56,6 +57,7 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
     <h2>Contato</h2>
     <p>Email: Jacksonluis67@gmail.com</p>
     <p>Instagram: @Jackson_motion</p>
+    <p>Número: (99)991244539<p>
   </section>
   <footer>
     <p>© 2025 Mova_Studio</p>
