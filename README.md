@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -49,7 +48,7 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
   <section>
     <h2>Projetos</h2>
     <ul>
-      <li>📽️ Animação para campanha X</li>
+      <li>📽️ Animação para campanha</li>
       <li>🎨 Colagem digital "Retrô em Movimento"</li>
     </ul>
   </section>
@@ -62,5 +61,28 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
   <footer>
     <p>© 2025 Mova_Studio</p>
   </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfólio Mova_studio</title>
+  <style>
+    body { 
+      font-family: poppins-serif; 
+      margin: 0; 
+      padding: 0; 
+      background: linear-gradient(135deg, #005bea 0%, #ff6a00 100%);
+    }
+    header { background: #00A9E0; color: white; padding: 2rem; text-align: center; }
+    section { padding: 2rem; }
+    footer { background: #191919; color: white; text-align: center; padding: 1rem; }
+    /* ...restante do CSS... */
+  </style>
+</head>
+<body>
+  <!-- ...restante do HTML... -->
 </body>
 </html>
