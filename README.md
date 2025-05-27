@@ -9,7 +9,7 @@
       margin: 0;
       font-family: 'Arial', sans-serif;
       background-color: #f9f9f9;
-      color: #333;
+      color: #000000;
     }
     header {
       background: #00A9E0;
@@ -28,7 +28,7 @@
       margin: auto;
     }
     h2 {
-      color: #FF6A13;
+      color: #000000;
       margin-bottom: 20px;
     }
     .portfolio-grid {
