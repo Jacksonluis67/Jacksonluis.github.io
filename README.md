@@ -93,7 +93,7 @@ Com um estilo marcante que mistura o vintage com o contemporâneo, trazemos iden
 
 No Mova Studio, cada frame conta uma história — e cada entrega é pensada para emocionar, informar e marcar presença.
 
-🚀 Vamos mover sua ideia?<p>
+🚀 Vamos mover sua ideia?</p>
   </section>
   <section>
     <h2>Projetos</h2>
