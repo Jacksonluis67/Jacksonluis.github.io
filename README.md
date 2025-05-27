@@ -22,7 +22,7 @@
 Nosso trabalho vai além da estética: entregamos soluções visuais animadas, pensadas para conectar marcas ao seu público de forma memorável.
 
 <h2>🎯 O que fazemos:<h2>
-<p>Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
+Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
 
 Roteiro visual e storytelling animado
 
@@ -42,7 +42,7 @@ Com um estilo marcante que mistura o vintage com o contemporâneo, trazemos iden
 
 No Mova Studio, cada frame conta uma história — e cada entrega é pensada para emocionar, informar e marcar presença.
 
-🚀 Vamos mover sua ideia?<p>
+🚀 Vamos mover sua ideia?
   </section>
   <section>
     <h2>Projetos</h2>
