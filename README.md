@@ -14,7 +14,7 @@
 <body>
   <header>
     <h1>Olá! Somos Mova_estúdio</h1>
-    <p>Fundador e criador visual | Estúdio Mova</p>
+    <p>Estúdio de animação 2D e criação visual | Estúdio Mova</p>
   </header>
   <section>
     <h2>Sobre nós</h2>
