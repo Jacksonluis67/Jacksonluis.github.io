@@ -16,14 +16,13 @@
     <p>Estúdio de animação 2D e criação visual | Estúdio Criativo</p>
   </header>
   <section>
-    <h2>Sobre nós</h2>
-    <p>🌟 Apresentação da Agência – Mova Studio<p>
+    <h2>🌟 Apresentação da Agência – Mova Studio</h2>
     <p> Há mais de 4 anos, o Mova Studio transforma ideias em movimento com criatividade, técnica e propósito. Somos uma agência especializada em motion design, unindo arte e estratégia para dar vida a histórias visuais que impactam e comunicam com clareza.
 
 Nosso trabalho vai além da estética: entregamos soluções visuais animadas, pensadas para conectar marcas ao seu público de forma memorável.
 
-🎯 O que fazemos:
-Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
+<h2>🎯 O que fazemos:<h2>
+<p>Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
 
 Roteiro visual e storytelling animado
 
@@ -43,7 +42,7 @@ Com um estilo marcante que mistura o vintage com o contemporâneo, trazemos iden
 
 No Mova Studio, cada frame conta uma história — e cada entrega é pensada para emocionar, informar e marcar presença.
 
-🚀 Vamos mover sua ideia?</p>
+🚀 Vamos mover sua ideia?<p>
   </section>
   <section>
     <h2>Projetos</h2>
