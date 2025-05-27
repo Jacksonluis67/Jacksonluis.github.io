@@ -12,7 +12,7 @@
 </head>
 <body>
   <header>
-    <h1>Olá! Somos Mova_estúdio</h1>
+    <h1>Olá! Somos Mova_Studio</h1>
     <p>Estúdio de animação 2D e criação visual | Estúdio Mova</p>
   </header>
   <section>
@@ -61,9 +61,6 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
   <footer>
     <p>© 2025 Mova_Studio</p>
   </footer>
-</body>
-</html>
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -80,9 +77,5 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
     section { padding: 2rem; }
     footer { background: #191919; color: white; text-align: center; padding: 1rem; }
     /* ...restante do CSS... */
-  </style>
-</head>
-<body>
-  <!-- ...restante do HTML... -->
-</body>
-</html>
+<h2 style="color: #ff6a00;">Título laranja</h2>
+<p style="color: #005bea;">Parágrafo azul forte</p>
