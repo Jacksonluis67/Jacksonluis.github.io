@@ -58,7 +58,7 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
     <p>Instagram: @Jackson_motion</p>
   </section>
   <footer>
-    <p>© 2025 Mova_Sutdio</p>
+    <p>© 2025 Mova_Studio</p>
   </footer>
 </body>
 </html>
