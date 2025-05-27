@@ -51,11 +51,6 @@
 </head>
 <body>
 
-<header>
-  <h1>Mova Studio</h1>
-  <p>Motion Designer & Edição Criativa de Vídeo</p>
-</header>
-
 <video class="hero-video" autoplay muted loop>
   <source src="[video-inicial.mp4](https://www.instagram.com/jackson_motion/reel/DJ4y1a4xFx7/)" type="video/mp4" />
   Seu navegador não suporta vídeos.
@@ -71,9 +66,9 @@
 
 Nosso trabalho vai além da estética: entregamos soluções visuais animadas, pensadas para conectar marcas ao seu público de forma memorável.<p>
 
-<h2>🎯 O que fazemos:<h2>
+🎯 O que fazemos:
 
-  <p>Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
+Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
 
 Roteiro visual e storytelling animado
 
@@ -94,6 +89,7 @@ Com um estilo marcante que mistura o vintage com o contemporâneo, trazemos iden
 No Mova Studio, cada frame conta uma história — e cada entrega é pensada para emocionar, informar e marcar presença.
 
 🚀 Vamos mover sua ideia?</p>
+
   </section>
   <section>
     <h2>Projetos</h2>
@@ -113,19 +109,4 @@ No Mova Studio, cada frame conta uma história — e cada entrega é pensada par
   </footer>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Portfólio Mova_studio</title>
-  <style>
-    body { 
-      font-family: poppins-serif; 
-      margin: 0; 
-      padding: 0; 
-      background: linear-gradient(135deg, #005bea 0%, #ff6a00 100%);
-    }
-    header { background: #00A9E0; color: white; padding: 2rem; text-align: center; }
-    section { padding: 2rem; }
-    footer { background: #191919; color: white; text-align: center; padding: 1rem; }
-    /* ...restante do CSS... */
-<h2 style="color: #ff6a00;"</h2>
-<p> style="color: #005bea;"</p>
+
