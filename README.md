@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8"/>
@@ -73,7 +73,7 @@ Nosso trabalho vai além da estética: entregamos soluções visuais animadas, p
 
 <h2>🎯 O que fazemos:<h2>
 
-<p>Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
+  <p>Cuidamos de todo o processo de motion design, do conceito à entrega final. Nossos serviços incluem:
 
 Roteiro visual e storytelling animado
 
